@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "TrackEasy",
+    "slug": "TrackEasy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/img/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/img/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#000"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/img/icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
